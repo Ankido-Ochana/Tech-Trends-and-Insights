@@ -1,12 +1,24 @@
 # Microsoft 365
 
-Guides, news and best practices related to Microsoft 365.
+Welcome to the Microsoft 365 section of Tech Trends and Insights.
 
-## Topics
+This section covers:
+
+- Exchange Online
+- Microsoft Teams
+- OneDrive
+- SharePoint
+- Licensing
+- Administration
+
+## Categories
 
 - Exchange Online
 - Teams
 - SharePoint
 - OneDrive
 - Licensing
-- Administration
+
+## Related Blog
+
+https://techtrendsandinsights.blogspot.com
