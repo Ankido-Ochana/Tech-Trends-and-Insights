@@ -1,0 +1,1 @@
+Restart-Service IntuneManagementExtension -Force -ErrorAction SilentlyContinue
