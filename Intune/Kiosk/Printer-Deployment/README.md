@@ -9,7 +9,7 @@ Deploy local IP printers to Microsoft Entra joined Windows 11 devices using:
 
 ## Architecture
 
-text
+```text
 Windows 11 Device
         │
         ▼
