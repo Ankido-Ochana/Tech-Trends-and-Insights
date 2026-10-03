@@ -10,8 +10,8 @@ Deploy local network printers to Entra joined kiosk devices.
 
 📖 Blog Article
 
-https://techtrendsandinsights.blogspot.com/2026/10/automating-network-printer-deployment.html
-
+[https://techtrendsandinsights.blogspot.com/2026/10/automating-network-printer-deployment.html
+](https://techtrendsandinsights.blogspot.com/)
 📂 GitHub Files
 
 ./Printer-Deployment
