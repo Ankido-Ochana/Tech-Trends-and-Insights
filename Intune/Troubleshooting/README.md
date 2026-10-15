@@ -1,6 +1,1 @@
-Troubleshooting
-BitLocker Recovery Loop
-Troubleshooting devices repeatedly entering BitLocker recovery mode.
-
-Remote Desktop Error 0xC000000D
-Troubleshooting RDP connection failures caused by Administrator Protection after recent Windows 11 updates.
+<img width="4032" height="1950" alt="image" src="https://github.com/user-attachments/assets/66af8e6f-cee3-4e85-bd5a-22e203a4d50a" />
