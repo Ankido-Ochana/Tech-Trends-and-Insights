@@ -46,8 +46,6 @@ Microsoft products and services evolve over time. Verify product behavior and re
 ## Related Resources
 
 - **Tech Trends and Insights:** https://techtrendsandinsights.blogspot.com/
-- **Microsoft Learn:** https://learn.microsoft.com/
-- **Microsoft Support:** https://support.microsoft.com/
 
 ---
 
