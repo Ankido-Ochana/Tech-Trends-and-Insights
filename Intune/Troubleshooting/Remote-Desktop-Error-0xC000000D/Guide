@@ -1,19 +1,37 @@
-# Troubleshooting Guide: Remote Desktop Error 0xC000000D After Windows Updates
+# Troubleshooting Guide
+## Remote Desktop Error 0xC000000D After Windows Updates
 
-**Category:** Windows 11 | Remote Desktop | Microsoft Intune  
-**Issue:** Remote Desktop connection failure  
-**Error code:** `0xC000000D`  
-**Guide type:** Known issue troubleshooting
+> **Issue:** Remote Desktop connection failure
+>
+> **Error code:** `0xC000000D`
+>
+> **Category:** Windows 11 | Remote Desktop | Microsoft Intune
+>
+> **Guide type:** Known issue troubleshooting
+
+---
 
 ## Overview
 
-This guide provides a structured troubleshooting procedure for investigating Remote Desktop connection failures associated with Administrator protection on potentially affected Windows 11 hosts following recent Windows updates.
+This guide provides a structured troubleshooting procedure for investigating Remote Desktop connection failures associated with Administrator Protection on affected Windows 11 devices following recent Windows updates.
 
-It covers symptom verification, Windows update checks, policy investigation, Microsoft's temporary mitigation, connectivity validation, and security considerations.
+The guide covers:
 
-**Important:** Confirm that your environment matches Microsoft's current known-issue guidance before changing any security settings. The workaround described here is temporary and may reduce security protections.
+- Symptom verification
+- Windows update validation
+- Administrator Protection review
+- Microsoft mitigation procedures
+- Connectivity testing
+- Security considerations
 
-## Contents
+> [!IMPORTANT]
+> Verify that your environment matches Microsoft's published known issue before implementing any workaround.
+>
+> The mitigation described in this guide is temporary and may reduce security protections.
+
+---
+
+## Table of Contents
 
 - [Symptoms](#symptoms)
 - [Affected Systems](#affected-systems)
@@ -32,6 +50,26 @@ It covers symptom verification, Windows update checks, policy investigation, Mic
 
 ---
 
-**Author:** Tech Trends and Insights  
-**Blog article:** [Troubleshooting Guide: Remote Desktop Error 0xC000000D](https://techtrendsandinsights.blogspot.com/2026/10/troubleshooting-guide-remote-desktop.html)  
-**Repository:** [Tech Trends and Insights — Troubleshooting](https://github.com/Ankido-Ochana/Tech-Trends-and-Insights/tree/main/Intune/Troubleshooting)
+## Document Information
+
+| Property | Value |
+|-----------|--------|
+| Author | Tech Trends and Insights |
+| Category | Troubleshooting |
+| Product | Windows 11 |
+| Technology | Remote Desktop |
+| Error Code | 0xC000000D |
+
+---
+
+## Related Resources
+
+📖 **Blog Article**
+
+[Remote Desktop Error 0xC000000D Troubleshooting](https://techtrendsandinsights.blogspot.com/2026/10/troubleshooting-guide-remote-desktop.html)
+
+📂 **GitHub Repository**
+
+[Tech Trends and Insights – Troubleshooting](https://github.com/Ankido-Ochana/Tech-Trends-and-Insights/tree/main/Intune/Troubleshooting)
+
+---
