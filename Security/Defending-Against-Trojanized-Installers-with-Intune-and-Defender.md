@@ -1,37 +1,28 @@
 # Defending Against Trojanized Installers with Intune and Microsoft Defender
 
-## Background – Understanding the Threat
+## Overview
 
-...
+This guide explains how organizations can reduce the risk of trojanized installers by implementing Microsoft's recommended security controls through Intune and Microsoft Defender.
 
-## Step 1 – Enable Potentially Unwanted Application (PUA) Protection
+### Topics covered
 
-...
+- PUA Protection
+- Cloud-Delivered Protection
+- Tamper Protection
+- Microsoft Defender SmartScreen
+- Attack Surface Reduction (ASR) Rules
+- Microsoft Defender for Endpoint
 
-## Step 2 – Enable Cloud-Delivered Protection and Tamper Protection
+### Key recommendations
 
-...
+1. Enable PUA Protection
+2. Enable Cloud Protection and Tamper Protection
+3. Configure SmartScreen
+4. Deploy ASR Rules
+5. Onboard devices to Defender for Endpoint
 
-## Step 3 – Enable Microsoft Defender SmartScreen
+## Related Article
 
-...
+Read the full guide on Tech Community:
 
-## Step 4 – Implement Attack Surface Reduction (ASR) Rules
-
-...
-
-## Step 5 – Monitor Devices with Microsoft Defender for Endpoint
-
-...
-
-## Additional Security Recommendations
-
-...
-
-## Recommended Implementation Order
-
-...
-
-## Conclusion
-
-...
+[Link to article]
