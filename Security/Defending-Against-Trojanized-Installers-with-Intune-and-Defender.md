@@ -25,4 +25,4 @@ This guide explains how organizations can reduce the risk of trojanized installe
 
 Read the full guide on Tech Community:
 
-[Link to article]
+[[Link to article](https://techtrendsandinsights.blogspot.com/2026/11/protecting-windows-devices-against.html)]
